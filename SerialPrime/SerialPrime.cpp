@@ -75,5 +75,7 @@ int main() {
 
     cout << "\nFinish.";
 
+    system("pause");
+
     return 0;
 }
